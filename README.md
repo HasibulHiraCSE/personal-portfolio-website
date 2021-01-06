@@ -1,1 +1,2 @@
 # personal-portfolio-website
+I'm Hasibul Haque Hira, currently I'm learning Professional Web Development from Programming-HERO.com with Jhankar Mahbub Sir. This is a simple portfolio website using just HTML and CSS. I do this project assignment for the 1st Milestone of the course.
